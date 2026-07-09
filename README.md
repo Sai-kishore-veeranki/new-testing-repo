@@ -4,3 +4,4 @@
 "test3" 
 "trigger correlation $(date)" 
 "trigger $(date)" 
+"tesing sync" 
